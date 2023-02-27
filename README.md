@@ -1,1 +1,1 @@
-# online-voting-system_backend
+# OVSEY online-voting-system
